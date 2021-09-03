@@ -1,0 +1,51 @@
+@charset "utf-8";
+/* Barre de menus */
+body
+{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+a{
+    color:white
+}
+h1{
+    font-family: 'Courier New', Courier, monospace;
+}
+.bouton{
+    background: rgb(95, 95, 97);
+    margin-left:45%;
+    margin-right:50%;
+    
+  
+}
+.formulaire
+{
+    margin-left:25%;
+    margin-right:10%; 
+    margin-top:2%;
+    width:100%; 
+
+}
+.home_corner{
+    text-align: center;
+    color: rgb(6, 155, 18);
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 300;
+    font-size:85%;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top: 15%;
+    width:75%;   
+}
+.home_corner_subtitle{
+    text-align: center;
+    color: rgb(105, 109, 105);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 300;
+    margin-left:auto;
+    margin-right:auto;
+    width:75%;  
+}
+.barre{
+    background: rgb(0, 17, 255);
+    color: rgb(59, 58, 58);
+}
